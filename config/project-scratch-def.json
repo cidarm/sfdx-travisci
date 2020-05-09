@@ -1,7 +1,13 @@
 {
-    "orgName": "wade.wegner Example",
+    "orgName": "ProjectForce - Dev Org",
     "edition": "Developer",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
-    }
-}
+    "features": ["Communities", "DefaultWorkflowUser"],
+    "settings": {
+      "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+      },
+      "chatterSettings": {
+      "enableChatter": true
+      }
+      }
+  }
